@@ -1,6 +1,6 @@
 """
-Task 1: Hangman Game
-Internship: CodeAlpha -- Python Programming
+Hangman Game
+-- Python Programming
 Author: Anselm Munango
 Description: A console-based Hangman game where the player guesses letters to reveal a hidden word.
              The game provides feedback on correct and incorrect guesses, tracks the number of attempts,
